@@ -1,0 +1,12 @@
+/src/Temp.Web/wwwroot/css/**/*.min.css
+/src/Temp.Web/wwwroot/js/**/*.min.js
+/src/Temp.Web/node_modules/
+
+/src/Temp.Web/Logs/
+.vscode/
+.vs/
+bin/
+obj/
+
+*.user
+*.suo

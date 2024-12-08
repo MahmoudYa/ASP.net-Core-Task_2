@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Customer Location";
+
+}
+
+<select id="CountryList" asp-items="@ViewBag.countries">
+    <option value="-1">Select Country</option>
+</select>
+
+<select id="StateList">
+</select>
+
+<script src="~/js/application/CustomerLocation/Index.js"></script>
+
